@@ -39,4 +39,7 @@ The user must select a work folder for the program. Due to permission management
 ### Loading the results
 Clic on each button to select the appropiate file. The sequence and all the results files must make reference to the same sequence, otherwise the program will crash. The user can change the name of the results file. The results will be saved as a .xlsx file.
 
+## You can help me improve ICE-Bioseq
+If you or your colleagues need another tool to be integrated in ICE-Bioseq, send an email to icg.microbiologia@gmail.com
+
 
