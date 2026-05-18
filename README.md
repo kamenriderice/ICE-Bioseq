@@ -20,3 +20,23 @@ On the results page of the tool, right click on the page, select "Save as..." an
 On the results page of the tool, right click on the page, select "Save as..." and save the complete page as a .html file.
 
 ### Bepipred 3.0
+On the results page of the tool, clic the "Download bepipred3 results (zip)" option. Don't extract the files.
+ICE-bioseq only works with Bepipred 3.0. Please avoid using results from previous versions of the program.
+
+### IEDB MHC-I binding prediction tools
+In the submission page, at the specify output section select Sort Peptides by Predicted Score (Descend) and set the output format as Text File.
+On the results page of the tool, right click on the page, select "Save as..." and save the complete page as a .html file.
+
+### IEDB MHC-II binding prediction tools
+In the submission page, at the specify output section select Sort Peptides by Percentile Rank and set the output format as Text File.
+On the results page of the tool, right click on the page, select "Save as..." and save the complete page as a .html file.
+
+
+## Running the tool
+### Select a work folder
+The user must select a work folder for the program. Due to permission management, the folder must not be associated with a cloud sync service such as OneDrive, Google Drive, iCloud, etc.
+
+### Loading the results
+Clic on each button to select the appropiate file. The sequence and all the results files must make reference to the same sequence, otherwise the program will crash. The user can change the name of the results file. The results will be saved as a .xlsx file.
+
+
